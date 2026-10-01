@@ -1,89 +1,93 @@
+![Banner](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 <h1 align="center">Hi 👋, I'm Kaveen Charuka</h1>
 
 <h3 align="center">
-Software Engineer | .NET • Angular • SQL Server
+Software Engineer | Full Stack Developer | .NET • Angular • SQL Server
 </h3>
 
 <p align="center">
-Building full-stack applications for financial and insurance systems.
+4+ years of experience building financial and insurance applications.<br>
+BSc (Hons) in Information Technology graduate from SLIIT.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaveen-charuka-ba38a7157/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:Kaveencharuka@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<img align="right" alt="Person coding on a laptop" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kaveencharuka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ### 👨‍💻 About Me
 
-- 💼 Software Engineer at **Scienter Technologies (Pvt) Ltd**.
-- 🚀 **4+ years of software development experience**, including full-stack development, production support, and database optimization.
-- 🎓 **BSc (Hons) in Information Technology** from **SLIIT**.
-- 🏦 Experienced in financial and insurance systems, with a primary focus on the **Insurance module**.
-- 🔧 Working with **C#, ASP.NET Core, Angular, TypeScript, and Microsoft SQL Server**.
+- 💼 Currently working as a **Software Engineer at Scienter Technologies (Pvt) Ltd**.
+
+- 🚀 **4+ years of experience** in software development.
+
+- 🏦 Working on **financial and insurance systems**.
+
+- 💻 Developing full-stack applications using **Angular, C#, and ASP.NET Core**.
+
+- 🗄️ Experienced in **SQL Server, stored procedures, query optimization, and SSRS**.
+
+- 🔐 Building **REST APIs with JWT authentication** using **Dapper and Entity Framework Core**.
+
+- 🛠️ Handling **production support, UAT issues, and IIS deployments**.
+
+- 🌱 Exploring **cloud technologies and improving software architecture skills**.
+
 - 🤝 Interested in collaborating on **.NET and Angular projects**.
+
 - 📫 Reach me at **Kaveencharuka@gmail.com**.
+
+<br clear="both">
 
 ### 💼 Professional Experience
 
 **Scienter Technologies (Pvt) Ltd**
 
-| Role | Period |
-|------|--------|
-| Software Engineer | September 2024 – Present |
-| Associate Software Engineer | February 2023 – September 2024 |
-| Intern Software Engineer | August 2022 – February 2023 |
+- **Software Engineer** — September 2024 – Present
+- **Associate Software Engineer** — February 2023 – September 2024
+- **Intern Software Engineer** — August 2022 – February 2023
 
-My work includes:
-
-- Developing and maintaining features in **Scienter E-Financial** using Angular and ASP.NET Core.
-- Working on insurance processes covering **proposals, policies, debit notes, credit notes, and payments**.
-- Building **REST APIs** and implementing **JWT authentication**.
-- Using **Dapper and Entity Framework Core** for data access.
-- Developing and optimizing **SQL Server stored procedures, views, and indexes**.
-- Creating and maintaining **SSRS reports**.
-- Handling **UAT issues, production support, and client communication**.
-- Deploying and maintaining applications on **IIS**.
-- Contributing to application revamps using newer Angular and .NET technologies.
-
-### 🛠️ Main Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" alt="C#" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-### ⚙️ Tools & Development Practices
-
-- **Data access:** Dapper, Entity Framework Core
-- **Backend:** REST APIs, JWT, dependency injection, async/await
-- **Database:** Stored procedures, query optimization, indexing
-- **Reporting & hosting:** SSRS, IIS
-- **Development tools:** Git, GitHub, Postman, Swagger, Visual Studio, VS Code
-
-### 🚧 Personal Project
-
-**Customer Relationship Management System**
-
-Building a CRM application using **Angular, ASP.NET Core, SQL Server, and Dapper**, with JWT authentication and modules for users, customers, products, and orders.
+Contributing to **Scienter E-Financial**, with a primary focus on the Insurance module, including proposals, policies, debit notes, credit notes, and payments.
 
 ### 🌐 Connect With Me
 
+<p align="left">
+  <a href="https://twitter.com/kaveencharuka3">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/kaveen-charuka-ba38a7157">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/kaveen.2017">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/kaveen_charuka">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
+</p>
+
+### 📊 GitHub Languages
+
 <p>
-  <a href="https://www.linkedin.com/in/kaveen-charuka-ba38a7157/">LinkedIn</a> •
-  <a href="https://github.com/kaveencharuka">GitHub</a> •
-  <a href="mailto:Kaveencharuka@gmail.com">Email</a> •
-  <a href="https://instagram.com/kaveen_charuka">Instagram</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaveencharuka&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
 </p>
